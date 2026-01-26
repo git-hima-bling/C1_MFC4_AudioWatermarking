@@ -1,7 +1,7 @@
 #  Audio Watermarking Project
 
 ## Overview
-This project implements a **robust and imperceptible audio watermarking system** using **FFT-domain embedding** and **optimization techniques**.  
+This watermark project implements a **robust and imperceptible audio watermarking system** using **FFT-domain embedding** and **optimization techniques**.  
 The watermark is embedded in perceptually significant frequency components and detected using a correlation-based approach, ensuring resilience against common signal processing attacks.
 
 ---

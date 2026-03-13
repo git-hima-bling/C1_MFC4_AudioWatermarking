@@ -22,10 +22,10 @@ Amrita Vishwa Vidyapeetham
 
 | Name | Roll Number |
 |------|-------------|
-| Ishwarya | CB.SC.U4AIE24220 |
-| Himavarshini | CB.SC.U4AIE24228 |
+| Ishwarya M | CB.SC.U4AIE24220 |
+| Himavarshini K | CB.SC.U4AIE24228 |
 | Meghana K | CB.SC.U4AIE24232 |
-| Ranjith | CB.SC.U4AIE24250 |
+| Ranjith Raja B | CB.SC.U4AIE24250 |
 
 ---
 

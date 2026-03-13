@@ -363,7 +363,8 @@ and attack conditions.
 | Platform | Laptop |
 | Language | Python |
 | Hardware | CPU |
-| Processor | Intel i5 |
+| GPU | Nvidia RTX 4070 |
+| Processor | Intel i9 |
 | RAM | 16 GB |
 
 ---
